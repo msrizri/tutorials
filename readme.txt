@@ -1,1 +1,1 @@
-This repository is for temporary repository of tutorial files. ^___^
+This temporary repository is of free tutorial files from everywhere the internet. ^___^
