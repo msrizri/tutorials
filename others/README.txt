@@ -1,2 +1,2 @@
-This 'others' folder is private and not tutorial realted.
+This 'others' folder is private and not tutorial related.
 Thank you.
